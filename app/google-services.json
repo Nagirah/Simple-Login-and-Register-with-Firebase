@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156644814160",
+    "project_id": "login-and-register-dc2cc",
+    "storage_bucket": "login-and-register-dc2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156644814160:android:150785d2b021aa18ed5055",
+        "android_client_info": {
+          "package_name": "com.example.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156644814160-4iv6c2qgbbp7q6r56ienq2vbt331i039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Il7Wah16SHdflvv3UofJqt1dC1IYbDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156644814160-4iv6c2qgbbp7q6r56ienq2vbt331i039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
